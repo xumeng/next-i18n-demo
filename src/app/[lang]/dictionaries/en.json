@@ -1,0 +1,7 @@
+{
+  "title": "Hello",
+  "home": {
+    "title": "Hello, Next.js i18n",
+    "desc": "This is a demo of Next.js i18n"
+  }
+}
