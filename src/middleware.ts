@@ -3,7 +3,7 @@ import { match } from "@formatjs/intl-localematcher";
 import { NextRequest, NextResponse } from "next/server";
 
 const locales = ["en", "zh"];
-const defaultLocale = "zh";
+const defaultLocale = "en";
 const cookieName = "i18nlang";
 
 // Get the preferred locale, similar to the above or using a library
